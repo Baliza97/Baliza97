@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Baliza97
-- 👀 I’m interested in games, movies and pop ner culture.
+- 👀 I’m interested in games, movies and pop nerd culture.
 - 🌱 I’m currently learning JavaScript
 - 💞️ I’m looking to collaborate on backend projects, even by learning
 - 📫 How to reach me: you can send me an e-mail: hebertbaliza97@gmail.com
